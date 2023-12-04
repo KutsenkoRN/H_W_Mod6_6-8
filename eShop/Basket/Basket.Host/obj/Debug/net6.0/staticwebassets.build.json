@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "zZvl7oIDRjFT1h1RKbBswArM493AL2dR9+mtVDMPUPA=",
+  "Source": "Basket.Host",
+  "BasePath": "_content/Basket.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\first-git-repo-main\\first-git-repo-main\\eShop\\Catalog\\Catalog.Host\\Catalog.Host.csproj",
+      "Version": 2,
+      "Source": "Catalog.Host",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
